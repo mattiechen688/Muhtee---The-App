@@ -1,1 +1,0 @@
-# Muhtee - The Maths Game
